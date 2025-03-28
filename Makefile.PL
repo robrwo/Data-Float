@@ -26,14 +26,9 @@ WriteMakefile(
     'PL_FILES'    => {},
     'SIGN'        => 1,
     'META_MERGE'  => {
-        x_deprecated => 1,
         resources    => {
             repository => 'git://github.com/robrwo/Data-Float.git',
-            bugtracker => {
-                mailto => "bug-Data-Float\@rt.cpan.org",
-                web    => "https://rt.cpan.org/Public/Dist/Display.html?Name=Data-Float",
-            },
-
+            bugtracker => "https://rt.cpan.org/Public/Dist/Display.html?Name=Data-Float",
         },
     }
 );
