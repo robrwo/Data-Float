@@ -1,5 +1,5 @@
 
-  * Remove use of Module::Build, and re-add Makefile.PL to the distribution.
+  * Removed use of Module::Build, and re-add Makefile.PL to the distribution.
 
   * Updated maintainer information.
 
