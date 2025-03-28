@@ -1,6 +1,8 @@
 
   * Remove use of Module::Build, and re-add Makefile.PL to the distribution.
 
+  * Updated maintainer information.
+
 version 0.013; 2017-07-29
 
   * no longer include a Makefile.PL in the distribution
