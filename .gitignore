@@ -6,6 +6,6 @@
 /META.yml
 /MYMETA.json
 /MYMETA.yml
-/Makefile.PL
 /SIGNATURE
 /Data-Float-*
+/pm_to_blib
