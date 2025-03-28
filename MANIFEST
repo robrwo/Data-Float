@@ -7,6 +7,7 @@ META.json
 META.yml
 pm_to_blib
 README
+SECURITY.md
 SIGNATURE			Added here by Module::Build
 t/class.t
 t/const.t
