@@ -3,6 +3,6 @@ MANIFEST.bak
 .git/
 _build/
 MYMETA.*
-Makefile
+Makefile$
 Data-Float-*
 blib/
