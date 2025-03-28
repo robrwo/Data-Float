@@ -6,3 +6,4 @@ MYMETA.*
 Makefile$
 Data-Float-*
 blib/
+pm_to_blib
