@@ -2,7 +2,6 @@
 
 Report issues via email at: Robert Rothenberg <rrwo@cpan.org>.
 
-
 This is the Security Policy for Data-Float.
 
 This text is based on the CPAN Security Group's Guidelines for Adding
