@@ -6,6 +6,9 @@
 
   - Update Changes to conform to the CPAN::Changes spec. GH#2.
 
+  [Other]
+  - Issues have been moved to GitHub. GH#1.
+
 v0.014 2025-03-28 17:08+00:00 Europe/London
 
   [Documentation]
