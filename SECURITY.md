@@ -1,6 +1,7 @@
 # Security Policy for the Data-Float distribution.
 
-Report issues via email at: Robert Rothenberg <rrwo@cpan.org>.
+Security vulnerabilities can be reported via the project GitHub
+repository [Security Advisories](https://github.com/robrwo/Data-Float/security/advisories).
 
 This is the Security Policy for Data-Float.
 
