@@ -1,3 +1,8 @@
+  [Documentation]
+  - Update security policy and fix inconsistent contact instructions.
+
+    This clarifies the license of the security policy. GH#3.
+
 version 0.014 2025-03-28
 
   * Removed use of Module::Build, and re-add Makefile.PL to the distribution.
