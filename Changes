@@ -1,15 +1,18 @@
 Revision history for Data-Float:
 
+  [Documentation]
+  - Fixed typos in Changes.
+
   [Other]
   - Updated license metadata in Makefile.PL.
 
 v0.015 2025-04-02 15:06+01:00 Europe/London
   [Documentation]
-  - Update security policy and fix inconsistent contact instructions.
+  - Updated security policy and fix inconsistent contact instructions.
 
     This clarifies the license of the security policy. GH#3.
 
-  - Update Changes to conform to the CPAN::Changes spec. GH#2.
+  - Updated Changes to conform to the CPAN::Changes spec. GH#2.
 
   [Other]
   - Issues have been moved to GitHub. GH#1.
