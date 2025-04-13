@@ -8,6 +8,7 @@ WriteMakefile(
     'AUTHOR'        => 'Robert Rothenberg <rrwo@cpan.org>',
     'ABSTRACT_FROM' => 'lib/Data/Float.pm',
     'VERSION_FROM'  => 'lib/Data/Float.pm',
+    "LICENSE"       => "perl",
     'PREREQ_PM'     => {
         "Carp"     => 0,
         "Exporter" => 0,
